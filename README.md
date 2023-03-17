@@ -3,4 +3,4 @@
 
 个人网络收藏夹
 
-部署在Cloudflare Pages
+部署在Vercel
